@@ -30,9 +30,9 @@ This project demonstrates **how to think beyond accuracy**: handling class imbal
 | PR/ROC Curves | ✅ Included |
 
 <p align="center">
-  < img src="reports/figures/p1_roc.png" width="400"/>
-  < img src="reports/figures/p1_pr.png" width="400"/>
-</p >
+  <img src="reports/figures/p1_roc.png" width="400"/>
+  <img src="reports/figures/p1_pr.png" width="400"/>
+</p>
 
 ---
 
